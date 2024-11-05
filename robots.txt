@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umazeiye.github.io/QnR/sitemap_index.txt
+Sitemap: https://umazeiye.github.io/bJW/sitemap_index.txt
+Sitemap: https://umazeiye.github.io/hAc/sitemap_index.txt
+Sitemap: https://umazeiye.github.io/lQF/sitemap_index.txt
